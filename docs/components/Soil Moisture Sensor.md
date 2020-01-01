@@ -27,3 +27,7 @@ This is a summary of the soil moisture sensor can be used to detect moisture, wh
 4. The digital outputs DO shop relay module can directly drive the buzzer module, which can form a soil moisture alarm equipment.
 5. Analog output AO and AD module connected through the AD converter, you can get more precise values of soil moisture.
 
+
+
+Probably going to use some other sensor
+https://www.youtube.com/watch?v=udmJyncDvw0
